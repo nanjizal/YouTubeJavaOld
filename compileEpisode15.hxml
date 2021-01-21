@@ -9,7 +9,7 @@
 -java-lib lwjgl-2.9.1/jar/lzma.jar
 
 -cp src
--main episode_15.ThreeDeeDemo
+-main ThreeDeeDemo
 -java hx_episode15
 --next
 -cmd cd hx_episode15/src/
