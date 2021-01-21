@@ -1,0 +1,20 @@
+-java-lib lwjgl-2.9.1/jar/AppleJavaExtensions.jar
+-java-lib lwjgl-2.9.1/jar/asm-debug-all.jar
+-java-lib lwjgl-2.9.1/jar/jinput.jar
+-java-lib lwjgl-2.9.1/jar/lwjgl_test.jar
+-java-lib lwjgl-2.9.1/jar/lwjgl_util_applet.jar
+-java-lib lwjgl-2.9.1/jar/lwjgl_util.jar
+-java-lib lwjgl-2.9.1/jar/lwjgl-debug.jar
+-java-lib lwjgl-2.9.1/jar/lwjgl.jar
+-java-lib lwjgl-2.9.1/jar/lzma.jar
+
+-cp src
+-main episode_4.InputDemo
+-java hx_episode4
+--next
+-cmd cd hx_episode4/src/
+-cmd cd ../
+-cmd cp '../lwjgl-2.9.1/native/macosx/openal.dylib' 'openal.dylib'
+-cmd cp '../lwjgl-2.9.1/native/macosx/libjinput-osx.jnilib' 'libjinput-osx.jnilib'
+-cmd cp '../lwjgl-2.9.1/native/macosx/liblwjgl.jnilib' 'liblwjgl.jnilib'
+-cmd java -jar hx_episode4.jar
