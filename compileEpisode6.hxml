@@ -9,7 +9,7 @@
 -java-lib lwjgl-2.9.1/jar/lzma.jar
 
 -cp src
--main episode_6.StateDemo
+-main StateDemo
 -java hx_episode6
 --next
 -cmd cd hx_episode6/src/
