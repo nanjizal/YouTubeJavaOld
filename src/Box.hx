@@ -1,4 +1,5 @@
-package episode_4;
+package;
+//episode_4;
 
 import org.lwjgl.opengl.GL11;
 
