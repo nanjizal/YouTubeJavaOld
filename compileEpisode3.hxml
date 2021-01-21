@@ -9,7 +9,7 @@
 -java-lib lwjgl-2.9.1/jar/lzma.jar
 
 -cp src
--main episode_3.SimpleOGLRenderer
+-main SimpleOGLRenderer
 -java hx_episode3
 --next
 -cmd cd hx_episode3/src/
