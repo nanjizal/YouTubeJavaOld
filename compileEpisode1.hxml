@@ -9,7 +9,7 @@
 -java-lib lwjgl-2.9.1/jar/lzma.jar
 
 -cp src
--main episode_1.DisplayTest
+-main DisplayTest
 -java hx_episode1
 --next
 -cmd cd hx_episode1/src/
