@@ -9,7 +9,7 @@
 -java-lib lwjgl-2.9.1/jar/lzma.jar
 
 -cp src
--main episode_4.InputDemo
+-main InputDemo
 -java hx_episode4
 --next
 -cmd cd hx_episode4/src/
