@@ -11,7 +11,7 @@
 -java-lib lwjgl-2.9.1/jar/lzma.jar
 
 -cp src
--main episode_5.TextureDemo
+-main TextureDemo
 -java hx_episode5
 --next
 -cmd cd hx_episode5/src/
